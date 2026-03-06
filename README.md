@@ -79,19 +79,8 @@ Technologies I frequently use:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorcodes97078\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorcodes97078\&layout=compact\&theme=transparent)
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hectorcodes97078\&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hectorcodes97078&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hectorcodes97078&theme=solarized)
 
 </div>
 
