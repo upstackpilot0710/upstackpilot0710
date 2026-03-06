@@ -19,39 +19,79 @@ I’m an **AI & SaaS Engineer focused on building production-ready MVPs and scal
 * 🚀 Turning **ideas into working MVPs quickly**
 * 📊 Building **automation tools and data-driven platforms**
 * 🌍 Passionate about **creating software used by real people**
-
 ---
 
 # 🧰 Tech Stack
 
-### Languages
-
+### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp" />
 </p>
 
-### Frontend
+---
 
+### 🎨 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css,sass,redux" />
 </p>
 
-### Backend
+---
 
+### ⚙️ Backend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,graphql" />
 </p>
 
-### Database & Infrastructure
+---
 
+### 🤖 AI / Machine Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,supabase" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### Cloud & Tools
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,linux,jenkins" />
+</p>
+
+---
+
+### 📡 Messaging & Streaming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kafka" />
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,webpack,babel,firebase,heroku,vercel" />
+</p>
+
+---
+
+### 🧪 Testing
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
 </p>
 
 ---
